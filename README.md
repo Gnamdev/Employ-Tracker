@@ -10,7 +10,6 @@ Installation
 Usage
 Future Enhancements
 Contributing
-
 Features
 Employee Management: Add, update, view, and delete employee information within departments.
 Role-Based Access Control: Implemented using JWT for secure user authentication and authorization.
